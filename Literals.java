@@ -8,6 +8,7 @@ public class Literals {
         char c = 'A';
         String s = "Hello";
         boolean b = true;
+        System.out.print(x + " " + y + " " + c + " " + s + " " + b + " ");
 
         // They are literally the values.
     }
