@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class JumpStatements {
     public static void main (String[] args) {
         // Java provides 3 Jump statements : break, continue, and return

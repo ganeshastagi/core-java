@@ -1,3 +1,5 @@
+package com.arrays;
+
 class Student {
     String name;
     int age;

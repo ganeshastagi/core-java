@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class CondStatements {
     public static void main (String[] args) {
         //Conditional statements include if, if else, if, else if, else

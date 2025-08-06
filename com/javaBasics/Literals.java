@@ -1,7 +1,9 @@
+package com.javaBasics;
+
 public class Literals {
     public static void main(String[] args) {
 
-        // Literals in Java are fixed values that are assigned to variables. They represent constant values directly in code.
+        // com.javaBasics.Literals in Java are fixed values that are assigned to variables. They represent constant values directly in code.
 
         int x = 5;
         float y = 3.14f;

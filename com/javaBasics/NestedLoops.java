@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class NestedLoops {
     public static void main (String[] args) {
         // Loop in a loop is called nested loops.

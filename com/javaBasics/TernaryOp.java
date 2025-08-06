@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class TernaryOp {
     public static void main (String[] args) {
         int a = 11;

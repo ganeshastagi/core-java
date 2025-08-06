@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 import java.util.Scanner;
 
 public class SwitchStatement {

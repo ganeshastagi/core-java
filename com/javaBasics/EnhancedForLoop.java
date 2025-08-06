@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class EnhancedForLoop {
     public static void main (String [] args) {
         // Enhanced for loop or For each loop is used when we want to work directly with the data or the values in the array

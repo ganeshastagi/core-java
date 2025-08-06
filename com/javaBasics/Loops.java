@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class Loops {
     public static void main (String[] args) {
         // Repeating the same statements until the condition is met but in an efficient way.

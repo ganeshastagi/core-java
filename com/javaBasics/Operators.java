@@ -1,6 +1,8 @@
+package com.javaBasics;
+
 public class Operators {
     public static void main (String[] args) {
-        // Arithmetic Operators - +, -, *, /, %, +=, -=, *=, /=, ++, --
+        // Arithmetic com.javaBasics.Operators - +, -, *, /, %, +=, -=, *=, /=, ++, --
         int a = 15;
         int b = 20;
         int result = a+b;
@@ -23,13 +25,13 @@ public class Operators {
 //        }
 //        System.out.println();
 
-        //Relational Operators - ==, !=, <, >, <=, >=
+        //Relational com.javaBasics.Operators - ==, !=, <, >, <=, >=
         int x = 10;
         int y = 20;
         boolean z = x != y;
         System.out.println(z);
 
-        //Bitwise Operators - &, |, &&, ||, !
+        //Bitwise com.javaBasics.Operators - &, |, &&, ||, !
         if(x > 5 || y > 7)
         {
             System.out.println("Ohoo! I started");

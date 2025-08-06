@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class ClassObjectFirst {
     public static void main (String[] a) {
         //Creating an object for the class car

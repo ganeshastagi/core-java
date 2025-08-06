@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 import java.util.*;
 public class UpdatedSwitch {
     public static void main (String[] args) {
