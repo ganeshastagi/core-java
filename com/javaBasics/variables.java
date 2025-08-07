@@ -1,3 +1,5 @@
+package com.javaBasics;
+
 public class variables {
     public static void main(String[] args) {
         int a;              // Declare a variable

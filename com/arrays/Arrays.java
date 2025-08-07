@@ -1,5 +1,7 @@
 package com.arrays;
 
+import com.arrays.ArrayOfObjects;
+
 import java.util.Scanner;
 
 public class Arrays {
