@@ -18,8 +18,6 @@ public class StaticMethod {
 
         Students.sec = " Sec 1";
         Students.display(s2);
-
-
     }
 }
 
