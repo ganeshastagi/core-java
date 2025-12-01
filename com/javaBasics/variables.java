@@ -6,12 +6,16 @@ public class variables {
         a = 200;            // Initialize a variable
         System.out.println(a);
 
+        VarTypes.num1 = 10;
         VarTypes v = new VarTypes();
-        v.num = 10;
-        v.num1 = 12;
-        v.display(2);
-        System.out.println(v.num);
+        v.num1 = 11;
         System.out.println(v.num1);
+        VarTypes v2 = new VarTypes();
+        v2.num1 = 12;
+        System.out.println(v2.num1);
+        VarTypes v3 = new VarTypes();
+        System.out.println(v3.num1);
+
     }
 }
 
@@ -23,5 +27,4 @@ class VarTypes {
     void display(int s) {
         System.out.println(s);
     }
-
 }

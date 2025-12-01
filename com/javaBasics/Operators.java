@@ -10,21 +10,6 @@ public class Operators {
         result += 12;
         System.out.println(result);
 
-        // Pre-Increment and Post-Increment - They behave different when you try to fetch the value.
-        int pre_incre = ++a;        //a is fetched and incremented first & then assigned to the variable.
-        int post_incre = a++;       //a is fetched and assigned to variable, then the variable is incremented.
-        System.out.println(pre_incre);
-        System.out.println(post_incre);
-//        for(int i=0; i<5; i++) {
-//            System.out.print(i);
-//        }
-//        System.out.println();
-//        for(int i=0; i<5; ++i)
-//        {
-//            System.out.print(i);
-//        }
-//        System.out.println();
-
         //Relational com.javaBasics.Operators - ==, !=, <, >, <=, >=
         int x = 10;
         int y = 20;
