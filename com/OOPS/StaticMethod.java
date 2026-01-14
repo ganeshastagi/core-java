@@ -16,7 +16,8 @@ public class StaticMethod {
         s2.name = "Leonard";
         s2.marks = 98;
 
-        Students.sec = " Sec 1";
+        Students.sec = " Sec 2";
+        Students.display(s1);
         Students.display(s2);
     }
 }
